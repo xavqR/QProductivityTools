@@ -5,3 +5,5 @@
 /.vs/
 /Source/.vs/
 /Source/QProductivityTools.Shell/obj/
+/Dependencies/packages
+/Source/QProductivityTools.Shell/bin/
